@@ -18,6 +18,5 @@
       },
       "description": "Switch to the last active tab"
     }
-  },
-  "permissions": ["tabs"]
+  }
 }
